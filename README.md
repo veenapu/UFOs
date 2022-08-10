@@ -19,7 +19,7 @@ HTML, Bootstrap, CSS
 ## Results:
 - Landing page:
 The landing page looks like this:
-![landing_page]https://github.com/veenapu/UFOs/blob/main/screenshots/landingPage.PNG)
+![landing_page](https://github.com/veenapu/UFOs/blob/main/screenshots/landingPage.PNG)
 
 - Single cirteria search:
 Make sure to enter the criteria in lower case. Single criteria search should look like this:
@@ -42,6 +42,5 @@ Make sure to enter the criteria in lower case. Multi criteria search should look
 ### Two additional recommendations for further development:
 - Multiple options within a search would have been helpful, like being able to choose more than one shape within the 'shape' field, or being able to choose more than one state, etc.,  For ex - Being able to choose two shapes like a circle and light, etc., would be beneficial.
 - Expanding the data to a wider search would be beneficial as well.
-
-It would be helpful to search a date range instead of a single date within the given table.
+- It would be helpful to search a date range instead of a single date within the given table.
 
